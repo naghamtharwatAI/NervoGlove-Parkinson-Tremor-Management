@@ -1,6 +1,7 @@
 # 🩺 NervoGlove
 ### AI-Powered Wearable Glove for Parkinson’s Tremor Management
 
+![Uploading Banner of project.png…]()
 ---
 
 ## 📌 Overview
