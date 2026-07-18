@@ -99,58 +99,6 @@ This emphasizes gyroscope measurements because they are more reliable for detect
 
 ---
 
-## 📂 Project Structure
-
-```text
-NervoGlove/
-│
-├── README.md
-├── LICENSE
-├── docs/
-│   ├── Project_Report.pdf
-│   ├── System_Architecture.pdf
-│   └── Presentation.pdf
-│
-├── images/
-│   ├── cover.png
-│   ├── hardware.png
-│   ├── architecture.png
-│   ├── app-welcome.png
-│   ├── app-form.png
-│   ├── app-dashboard.png
-│   └── prototype.jpg
-│
-├── hardware/
-│   ├── ESP32/
-│   ├── Circuit_Diagram/
-│   ├── PCB/
-│   └── Components_List.md
-│
-├── firmware/
-│   ├── Arduino_Code.ino
-│   └── libraries.md
-│
-├── mobile-app/
-│   ├── MIT_App.aia
-│   ├── APK/
-│   └── Screenshots/
-│
-├── ai/
-│   ├── notebooks/
-│   ├── models/
-│   └── future-work.md
-│
-├── videos/
-│   └── demo.mp4
-│
-└── results/
-    ├── testing.md
-    ├── clinical-results.md
-    └── performance.md
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Hardware Setup
