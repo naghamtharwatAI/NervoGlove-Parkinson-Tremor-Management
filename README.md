@@ -98,7 +98,42 @@ float intensity = gyroMagnitude * 0.7 + accelMagnitude * 0.3;
 This emphasizes gyroscope measurements because they are more reliable for detecting high-frequency tremor patterns.
 
 ---
+# 📂 Repository Structure
 
+```
+NervoGlove
+│
+├── README.md
+├── LICENSE
+│
+├── firmware
+│   └── Vibrated_Gloves_Code.ino
+│
+├── mobile-app
+│   ├── Vibrated_Glove1.aia
+│   └── APK
+│
+├── hardware
+│   ├── Circuit_Diagram
+│   ├── Components_List.md
+│   └── Images
+│
+├── docs
+│   └── Graduation_Project_Report.pdf
+│
+├── images
+│   ├── cover.png
+│   ├── home_screen.jpg
+│   ├── signin_screen.jpg
+│   ├── tremor_type.jpg
+│   ├── controller_screen.jpg
+│   └── prototype.jpg
+│
+└── videos
+    └── demo.mp4
+```
+
+---
 ## 🚀 Getting Started
 
 ### Hardware Setup
