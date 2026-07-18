@@ -115,8 +115,6 @@ NervoGlove
 │
 ├── hardware
 │   ├── Circuit_Diagram
-│   ├── Components_List.md
-│   └── Images
 │
 ├── docs
 │   └── Graduation_Project_Report.pdf
