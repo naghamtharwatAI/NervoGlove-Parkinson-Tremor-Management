@@ -120,9 +120,7 @@ NervoGlove
 │
 ├── images
 │   ├── cover.png
-│   ├── home_screen.jpg
 │   ├── signin_screen.jpg
-│   ├── tremor_type.jpg
 │   ├── controller_screen.jpg
 │   └── prototype.jpg
 │
